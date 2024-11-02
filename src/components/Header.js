@@ -11,7 +11,7 @@ export default function Header() {
             <Grid item>
               <Typography variant="h4">ytmp3dl-web</Typography>
               <Typography variant="body2">
-                Powered by ytmp3dl-server and ytmp3dl-core
+                Powered by Thenula Panapiti
               </Typography>
             </Grid>
             <Grid
